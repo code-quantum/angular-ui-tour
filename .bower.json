@@ -1,0 +1,48 @@
+{
+  "name": "angular-ui-tour",
+  "description": "omg",
+  "version": "0.9.3",
+  "main": "dist/angular-ui-tour.js",
+  "ignore": [
+    ".editorconfig",
+    ".gitattributes",
+    ".gitignore",
+    ".jshintrc",
+    ".npmignore",
+    ".travis.yml",
+    ".umd",
+    "gruntfile.js",
+    "npm-shrinkwrap.json",
+    "package.json",
+    "karma.conf.js",
+    "app/",
+    "lib/",
+    "test/"
+  ],
+  "dependencies": {
+    "angular": ">=1.5",
+    "angular-sanitize": ">=1.5",
+    "cfp-angular-hotkeys": "1.7.0",
+    "hone": "1.0.3",
+    "tether": "1.4.0",
+    "angular-scroll": "1.0.0",
+    "angular-bind-html-compile": "1.4.1"
+  },
+  "devDependencies": {
+    "angular-mocks": ">=1.3",
+    "angular-route": ">=1.3"
+  },
+  "resolutions": {
+    "angular": "latest"
+  },
+  "homepage": "https://github.com/code-quantum/angular-ui-tour",
+  "_release": "0.9.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.9.3",
+    "commit": "698f376b601102eddda8157d3de6301afc5b09ae"
+  },
+  "_source": "https://github.com/code-quantum/angular-ui-tour.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/code-quantum/angular-ui-tour.git"
+}
